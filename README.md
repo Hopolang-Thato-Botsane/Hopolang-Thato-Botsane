@@ -72,7 +72,7 @@ By separating the content management engine (Sanity) from the presentation layer
 
 ---
 
-Developed with energy by [Thato Hopolang Botsane (THB)](https://github.com/hopolang-thato-botsane)
+Developed with energy by [Thato Hopolang Botsane (THB)]
 
 
 # Perfect Finish Detailing
@@ -131,7 +131,7 @@ By separating the content management engine (Sanity) from the presentation layer
 
 ---
 
-Developed with energy by [Thato Hopolang Botsane (THB)](https://github.com/hopolang-thato-botsane)
+Developed with energy by [Thato Hopolang Botsane (THB)]
 
 
 
@@ -180,12 +180,13 @@ This project reinforced the power of structural discipline in interaction design
 
 By prioritizing a flawless initialization loop over complex, bloat-heavy multi-page layouts, the platform maintains an incredibly lean performance footprint while achieving massive experiential impact. It proved that in industrial sectors, a technical user journey built on responsiveness, predictability, and raw speed is the ultimate builder of brand trust.
 ---
-Developed with ⚡ by [Thato Hopolang Botsane (THB)](https://github.com/hopolang-thato-botsane)
+Developed with ⚡ by [Thato Hopolang Botsane (THB)]
 
   
 ### 📫 Let's Build Something
-*   **Portfolio:** [Link to your site]
-*   **LinkedIn:** [Link]
+*   **Portfolio:** https://hopolang-thato-botsane.github.io/Personal-Portfolio-Website/
+*   **Behance:** https://www.behance.net/thatohopolangbotsane
+*   **LinkedIn:** www.linkedin.com/in/thato-botsane-309188418
 *   **Email:** botsanehopolang@gmail.com
 
 ---
