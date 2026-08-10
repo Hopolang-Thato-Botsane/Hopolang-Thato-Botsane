@@ -10,9 +10,9 @@ My Toolbox
 *   **The Design:** UI/UX Design, Figma, Prototyping.
 *   **The Agility:** Framer, SquareSpace and Sanity CMS.
 
-Current Learnings
-* **React: Drilling React Hooks.
-* **Backend: Node.js Express.js.
+Current Learnings Doing:
+* **Practicing React Hooks.
+* **Learning: C# for Backend development.
 
 ### Case Studies
 
@@ -27,10 +27,10 @@ Current Learnings
 
 ## Project Profile & Role
 
-* **Title:** Studio & Set: Architecture of an Advanced Next.js Headless E-Commerce System
+* **Title:** Studio & Set: Architecture of an Advanced Next.js E-Commerce System
 * **Role:** Lead UX/UI Designer & Lead Frontend Developer
 * **Timeline:** Project Development Lifecycle (June - July)
-* **Stack:** Next.js, React, TypeScript, Sanity CMS v6, GROQ API, Tailwind CSS / CSS Modules, Vercel
+* **Stack:** Next.js, React, TypeScript, CSS Modules, Vercel
 
 ---
 
@@ -56,9 +56,9 @@ The visual architecture strikes a balance between cinematic mood and raw enginee
 
 ## The Destination (Code Implementation)
 
-Bringing the platform to life required bridging a modern, typed React framework with a robust headless content layer while battling runtime environment optimization barriers:
+Bringing the platform to life required bridging a modern, typed React framework with a modular data architecture while battling runtime environment optimization barriers:
 
-* **Strictly Typed Sanity-to-DOM Integration:** Implemented a robust TypeScript schema model utilizing asynchronous GROQ queries. Resolved complex type assignment discrepancies (such as strict undefined vs null data payloads) inside highly responsive components like the modular site footer.
+* **Strictly Typed Data-to-DOM Integration:** Implemented a robust TypeScript schema model to handle component states and inventory structures. Resolved complex type assignment discrepancies (such as strict undefined vs null data payloads) inside highly responsive UI components like the dynamic product drawer and modular site footer.
 * **Turbopack Dev-Build Optimization:** Overcame deep local runtime environment file locking errors (such as Next.js build-manifest EPERM renaming loops) by streamlining local compilation pipelines inside a unified Windows development environment.
 * **Zero-Lag State Engines & Layout Fidelity:** Constructed an explicit, highly performant layout model utilizing native CSS properties over bloated external UI libraries. Leveraged localized sticky containers, customized media queries, and optimized flex-grids to maintain responsive visual parity down to standard mobile breakdowns.
 
@@ -66,9 +66,9 @@ Bringing the platform to life required bridging a modern, typed React framework 
 
 ## Impact & Key Learnings
 
-This project served as a definitive proof of concept for the power of modern headless architectures tied to typed React development. 
+This project served as a definitive proof of concept for the power of modern Next.js architectures tied to strictly typed React development. 
 
-By separating the digital asset management engine (Sanity) from the application presentation layer (Vercel), the platform guarantees swift server-side rendering and static optimization while allowing full operational autonomy over content changes. It proved that managing a technical media rental platform does not require visual compromise—it requires strict data typing, structural alignment, and disciplined layout execution.
+By decoupling state management and data structures from the presentation layer on Vercel, the platform guarantees swift server-side rendering, static optimization, and lightweight execution. It proved that managing a technical media rental platform does not require visual compromise—it requires strict data typing, structural alignment, and disciplined layout execution.
 
 ---
 
